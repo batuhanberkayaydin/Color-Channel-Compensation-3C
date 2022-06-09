@@ -3,6 +3,7 @@ The C++ and Python implementation of [Color Channel Compensation (3C): A Fundame
 
 
 ## Input
-[<img src="https://github.com/batuhanberkayaydin/Color-Channel-Compensation-3C/blob/main/inputs/test_image.jpg" width="500"/>](test_image.jpg)
+[<img src="https://github.com/batuhanberkayaydin/Color-Channel-Compensation-3C/blob/main/inputs/test_image.jpg" width="400"/>](test_image.jpg)
 
 ## Result
+[<img src="https://github.com/batuhanberkayaydin/Color-Channel-Compensation-3C/blob/main/results/result.png" width="400"/>](result.png)
